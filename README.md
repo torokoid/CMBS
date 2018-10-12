@@ -87,7 +87,7 @@ body::before {
 </div>
 </div>
 <br><br>
-
+<div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="snow">・・・2018、開催宣言・・・<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 
@@ -172,7 +172,7 @@ Subject: RE: CMBS同窓会のご案内<br>
 お楽しみに。<br>
 
 
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 
