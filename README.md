@@ -128,6 +128,50 @@ Subject: 10/12 CMBS同窓会のご案内<br><br>
  
 
 よろしくお願いします。<br/>
+
+>
+> 差出人: "Shoji Ichikawa (市川 章二)" <shoji_ichikawa@n.t.rd.honda.co.jp>
+> 日時: 2018年10月1日 13:53:46 JST
+> 宛先: "Yoshihiro Urai (浦井 芳洋)" <yoshihiro_urai@n.t.rd.honda.co.jp>
+> Cc: "Kenji Kodaka (小髙 賢二)" <kenji_kodaka@n.t.rd.honda.co.jp>, "Hiroyuki Koike (小池 弘之)" <hiroyuki_koike@n.t.rd.honda.co.jp>, "Hiroyuki Takagi (高木 啓之)" <hiroyuki_takagi@n.t.rd.honda.co.jp>, "Yoichi Sugimoto (杉本 洋一)" <Yoichi_Sugimoto@n.t.rd.honda.co.jp>, "Satoshi Hada (羽田 智)" <satoshi_hada@n.t.rd.honda.co.jp>, "Makoto Otabe (小田部 誠)" <Makoto_Otabe@n.t.rd.honda.co.jp>, "matsuda@sb4.so-net.ne.jp" <matsuda@sb4.so-net.ne.jp><br>
+> 件名: RE: 10/12 CMBS同窓会のご案内<br><br>
+>
+> いつもお世話になっています HGT 11G1ﾌﾞﾚｰｷGr 市川です<br>
+>
+> 浦井さん、お忙しいなか調整ありがとうございます<br>
+>
+> ”行った事のないお店”＋”松田さんと小田部さん”、なんか期待しちゃいます。<br>
+>
+
+
+ 
+
+From: Yoshihiro Urai (浦井 芳洋)
+Sent: Wednesday, August 29, 2018 6:45 PM
+To: Kenji Kodaka (小髙 賢二) <Kenji_Kodaka@n.t.rd.honda.co.jp>; Hiroyuki Koike (小池 弘之) <Hiroyuki_Koike@n.t.rd.honda.co.jp>; Hiroyuki Takagi (高木 啓之) <Hiroyuki_Takagi@n.t.rd.honda.co.jp>; Yoichi Sugimoto (杉本 洋一) <Yoichi_Sugimoto@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <Satoshi_Hada@n.t.rd.honda.co.jp>; Makoto Otabe (小田部 誠) <Makoto_Otabe@n.t.rd.honda.co.jp>; Shoji Ichikawa (市川 章二) <Shoji_Ichikawa@n.t.rd.honda.co.jp>; matsuda@sb4.so-net.ne.jp
+Subject: RE: CMBS同窓会のご案内<br>
+
+ 
+
+浦井です。<br><br>
+
+ 
+
+市川さん、小池さん、小高さん、<br>
+
+返信ありがとうございます。<br>
+
+これで全員分の予定が揃いました。<br><br>
+
+ 
+
+現状で全員の都合のよい10/12に開催したいと思います。<br>
+
+場所、時間は決定次第連絡します。<br>
+
+お楽しみに。<br>
+
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
