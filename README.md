@@ -1,4 +1,4 @@
-# cmbs
+# CMBS
 <html lang="ja">
  <head>
   <meta charset="utf-8" />
@@ -60,14 +60,14 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
-<a href="151113_花子_4.jpeg" data-lightbox="abc" class="preview"><img src="151113_花子_4.jpeg" alt="サンプル画像" width="1800" /></a>
-<a href="151113_花子_2.jpeg" data-lightbox="abc" class="preview"><img src="151113_花子_2.jpeg" alt="サンプル画像" width="180" /></a>
-<a href="151113_花子_3.jpeg" data-lightbox="abc" class="preview"><img src="151113_花子_3.jpeg" alt="サンプル画像" width="180" /></a>
-<a href="151113_花子_5.jpeg" data-lightbox="abc" class="preview"><img src="151113_花子_5.jpeg" alt="サンプル画像" width="180" /></a>
-<a href="151113_花子_6.jpeg" data-lightbox="abc" class="preview"><img src="151113_花子_6.jpeg" alt="サンプル画像" width="180" /></a>
-<a href="151113_花子_7.jpeg" data-lightbox="abc" class="preview"><img src="151113_花子_7.jpeg" alt="サンプル画像" width="180" /></a>
-<a href="151113_花子_8.jpeg" data-lightbox="abc" class="preview"><img src="151113_花子_8.jpeg" alt="サンプル画像" width="180" /></a>
-<a href="151113_花子_1.jpeg" data-lightbox="abc" class="preview"><img src="151113_花子_1.jpeg" alt="サンプル画像" width="180" /></a>
+<a href="151113_花子_4.JPG" data-lightbox="abc" class="preview"><img src="151113_花子_4.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="151113_花子_2.JPG" data-lightbox="abc" class="preview"><img src="151113_花子_2.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151113_花子_3.JPG" data-lightbox="abc" class="preview"><img src="151113_花子_3.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151113_花子_5.JPG" data-lightbox="abc" class="preview"><img src="151113_花子_5.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151113_花子_6.JPG" data-lightbox="abc" class="preview"><img src="151113_花子_6.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151113_花子_7.JPG" data-lightbox="abc" class="preview"><img src="151113_花子_7.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151113_花子_8.JPG" data-lightbox="abc" class="preview"><img src="151113_花子_8.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151113_花子_1.JPG" data-lightbox="abc" class="preview"><img src="151113_花子_1.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
@@ -115,7 +115,7 @@ Subject: 暑気払いのお誘い<br/>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
-<a href="120921_うずしお_1.JPG" data-lightbox="abc" class="preview"><img src="120921_うずしお_1.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="120921_うずしお_1.JPG" data-lightbox="abc" class="preview"><img src="120921_うずしお_1.JPG" alt="サンプル画像" width="180" /></a>
 <a href="120921_うずしお_2.JPG" data-lightbox="abc" class="preview"><img src="120921_うずしお_2.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 </div>
