@@ -75,40 +75,7 @@ body::before {
 
 
 <div style="background-color:rgb(255,255,255,0.2);">
-<!--
-<h3><span class="snow">・・・開催宣言・・・<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
-From: Ryusuke Akita (秋田 隆介)<br/>
-Sent: Tuesday, June 12, 2018 1:23 PM<br/>
-To: Yasuhiro Toyoda (豊田 泰弘) <yasuhiro_toyoda@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Humio Ishii (石井 文生) <humio_ishii@n.t.rd.honda.co.jp>; Tetsuya Karita (刈田 哲也) <tetsuya_karita@n.t.rd.honda.co.jp>; HIDETOSHI IMAIZUMI (今泉 秀俊) <Hidetoshi_Imaizumi@hm.honda.co.jp>; Yusuke Sogawa (曽川 祐輔) <Yusuke_Sogawa@n.t.rd.honda.co.jp>; Ken Hayasaka (早坂 健) <ken_hayasaka@n.t.rd.honda.co.jp>; Jingxun Li (李 京勲) <jingxun_li@n.t.rd.honda.co.jp><br/>
-Subject: 暑気払いのお誘い<br/>
- 
- <!--
-みなさま<br/>
-  <!--
-お世話になります。1G1 秋田(8772072)です。<br/>
-  <!--
-早速ですが標記の件、<br/>
-7月の下記日程のどこかで飲み会しませんか？というお誘いです。<br/>
-  <!--
-つきましては、参加可否を埋めて今週いっぱいをめどに返信お願いします。<br/>
-ちなみにお店は中華かなと思っています。<br/>
-  <!--
-　 	7/13(金) 	7/20(金) 	7/27(金)<br/>
-<br>豊田さん  	　 	　
-<br>羽田さん 　 	　
-<br>石井さん 	　 	　
-<br>刈田さん 	　 	　
-<br>今泉さん  	　 	　
-<br>曽川さん  	　 	　
-<br>早坂さん  	　 	　
-<br>李さん 	　 	　
-<br>古口さん 	? 	? 	?
-<br>秋田 	○ 	○ 	○
-  <!--
-<br>以上、よろしくお願いいたします。<br/>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
--->
+
 	</div></div>
 <br><br><br><br><br>	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2012年9月21日、うずしお !!!</marquee></span></h2>
@@ -120,6 +87,49 @@ Subject: 暑気払いのお誘い<br/>
 </div>
 </div>
 <br><br>
+
+<h3><span class="snow">・・・2018、開催宣言・・・<br>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+
+
+From: Yoshihiro Urai (浦井 芳洋)
+Sent: Friday, September 28, 2018 1:59 PM
+To: Kenji Kodaka (小髙 賢二) <kenji_kodaka@n.t.rd.honda.co.jp>; Hiroyuki Koike (小池 弘之) <hiroyuki_koike@n.t.rd.honda.co.jp>; Hiroyuki Takagi (高木 啓之) <hiroyuki_takagi@n.t.rd.honda.co.jp>; Yoichi Sugimoto (杉本 洋一) <Yoichi_Sugimoto@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Makoto Otabe (小田部 誠) <Makoto_Otabe@n.t.rd.honda.co.jp>; Shoji Ichikawa (市川 章二) <shoji_ichikawa@n.t.rd.honda.co.jp>; matsuda@sb4.so-net.ne.jp
+Subject: 10/12 CMBS同窓会のご案内<br><br>
+
+メンバーの皆さん、<br><br>
+
+ 
+
+場所、時間について連絡します。<br><br>
+
+ 
+
+場所：國酒の仕業　宇都宮市大通り5-2-8　028-612-4992<br>
+
+日時：10月12日（金）20:00～22:00（２hの時間制）　いつもより遅めの開始時間なのでご注意を！<br><br>
+
+ 
+
+はなこもマンネリ化してきたかなということで、たまには別のお店にしてみました。日本酒のおいしそうなところです。<br>
+
+浦井の名前で、2階席で予約してます。<br><br>
+
+ 
+
+都合が悪くなり欠席ととなる場合は浦井まで連絡ください（できれば早めに）。<br><br>
+
+ 
+
+当日、何かあればこちらまで。<br>
+
+浦井の連絡先　080-4916-2253<br><br>
+
+ 
+
+よろしくお願いします。<br/>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
