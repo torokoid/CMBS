@@ -31,11 +31,11 @@ font-size: 1.5em;
 }
 
 
-  #wrap {background:none} /*PC用の背景はオフ*/
+#wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
   display:block;
-  /*position:fixed;*/
+  position:fixed;
   top:0;
   left:0;
   z-index:-1;
@@ -48,6 +48,7 @@ body::before {
 <!--
 <body style="background: url(https://torokoid.github.io/CMBS/181012_國酒の仕業_24.JPG) fixed;">
 -->
+
 
 </style> 
 
@@ -214,10 +215,11 @@ Subject: RE: CMBS同窓会のご案内<br><br>
 
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3></div>
-<!--
+
 <div style="background: url(https://torokoid.github.io/CMBS/181012_國酒の仕業_22.JPG) fixed;">
-	<div></div>
--->
+	<div>
+	<h3><span class="snow">・・・2018、集合写真その２・・・<br></div>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
