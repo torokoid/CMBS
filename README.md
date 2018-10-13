@@ -35,7 +35,7 @@ font-size: 1.5em;
 body::before {
   content:"";
   display:block;
-  position:fixed;
+  /*position:fixed;*/
   top:0;
   left:0;
   z-index:-1;
@@ -48,7 +48,7 @@ body::before {
 body::before {
   content:"";
   display:block;
-  position:fixed;
+  /*position:fixed;*/
   top:0;
   left:0;
   z-index:-1;
