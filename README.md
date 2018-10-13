@@ -35,7 +35,7 @@ font-size: 1.5em;
 body::before {
   content:"";
   display:block;
-  /*position:fixed;*/
+  position:fixed;
   top:0;
   left:0;
   z-index:-1;
@@ -66,9 +66,47 @@ body::before {
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! CMBS開発者、飲み会の記録 !!!</marquee></span></h1>
-<p align="right">2018/10/12、**********</p>
+<p align="right">2018/10/12、國酒の仕業</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年10月12日、國酒の仕業 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
+<a href="181012_國酒の仕業_1.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_1.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="181012_國酒の仕業_2.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_2.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_3.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_3.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_4.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_4.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_5.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_5.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_6.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_6.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_7.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_7.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_8.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_8.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_9.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_9.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_10.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_11.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_12.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_13.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_14.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_14.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_15.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_15.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_16.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_16.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_17.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_17.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_18.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_18.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_19.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_19.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_20.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_20.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_21.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_21.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_22.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_22.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_23.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_23.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181012_國酒の仕業_24.JPG" data-lightbox="abc" class="preview"><img src="181012_國酒の仕業_24.JPG" alt="サンプル画像" width="180" /></a>
+</div>
+
+<br><br>
+
+
+
+<br><br><br><br><br>		
+	
+	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月13日、花子 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
@@ -87,9 +125,6 @@ body::before {
 
 
 
-<div style="background-color:rgb(255,255,255,0.2);">
-
-	</div></div>
 <br><br><br><br><br>	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2012年9月21日、うずしお !!!</marquee></span></h2>
 <div id="wrap">
