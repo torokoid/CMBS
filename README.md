@@ -215,7 +215,7 @@ Subject: RE: CMBS同窓会のご案内<br><br>
 
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3></div>
-<p style="background: url(https://torokoid.github.io/CMBS/181012_國酒の仕業_22.JPG);" width="1800" /><img >2018、集合写真その２<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+<p><img src="181012_國酒の仕業_22.JPG" alt="サンプル画像" width="1800" /></p>
 
 
 
