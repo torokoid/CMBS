@@ -30,20 +30,7 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-
-#wrap {background:none} /*PC用の背景はオフ*/
-body::before {
-  content:"";
-  display:block;
-  position:fixed;
-  top:0;
-  left:0;
-  z-index:-1;
-  width:100%;
-  height:100vh;
-  background:url(https://torokoid.github.io/CMBS/181012_國酒の仕業_22.JPG) center/cover no-repeat; /*fixedをトル！*/
-  -webkit-background-size:cover;/*Android4*/
-  }
+<!--
   #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -57,7 +44,14 @@ body::before {
   background:url(https://torokoid.github.io/CMBS/181012_國酒の仕業_24.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
+-->
 
+#sample {
+    background:
+        url(https://torokoid.github.io/CMBS/181012_國酒の仕業_24.JPG) right top no-repeat,
+        url(https://torokoid.github.io/CMBS/181012_國酒の仕業_22.JPG) left bottom no-repeat;
+}
+背景複数指定の
 
 </style> 
 
