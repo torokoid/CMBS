@@ -41,7 +41,20 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/koguchi/IMG_1866.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/CMBS/181012_國酒の仕業_22.JPG) center/cover no-repeat; /*fixedをトル！*/
+  -webkit-background-size:cover;/*Android4*/
+  }
+  #wrap {background:none} /*PC用の背景はオフ*/
+body::before {
+  content:"";
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:-1;
+  width:100%;
+  height:100vh;
+  background:url(https://torokoid.github.io/CMBS/181012_國酒の仕業_24.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
