@@ -46,12 +46,7 @@ body::before {
   }
 -->
 
-#sample {
-    background:
-        url(https://torokoid.github.io/CMBS/181012_國酒の仕業_24.JPG) right top no-repeat,
-        url(https://torokoid.github.io/CMBS/181012_國酒の仕業_22.JPG) left bottom no-repeat;
-}
-背景複数指定の
+<body style="background: url(https://torokoid.github.io/CMBS/181012_國酒の仕業_24.JPG) fixed;">
 
 </style> 
 
