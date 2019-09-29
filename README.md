@@ -69,7 +69,7 @@ body::before {
 <a href="20190927_001.JPG" data-lightbox="abc"><img src="20190927_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190927_002.JPG" data-lightbox="abc"><img src="20190927_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190927_003.JPG" data-lightbox="abc"><img src="20190927_003.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">おまけ↓ これから出勤のお姉様方に目が釘付けになるサラリーマン。</span></h3>
+<h3><span class="white">おまけ↓ これから出勤のお姉様方に目が釘付けになる可哀想な（普通の？）サラリーマン。</span></h3>
 <a href="20190927_004.JPG" data-lightbox="abc"><img src="20190927_004.JPG" alt="サンプル画像" width="900" /></a>
 
 </div>
