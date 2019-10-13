@@ -57,7 +57,7 @@ body::before {
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! CMBS開発者、飲み会の記録 !!!</marquee></span></h1>
-<p align="right">2018/10/12、國酒の仕業</p>
+<p align="right">2018/10/12、國酒の仕業 市川君撮影</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
@@ -82,7 +82,7 @@ body::before {
 <br><br><br><br><br>	
 
 
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年10月12日、國酒の仕業 市川君撮影!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年10月12日、國酒の仕業!!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
