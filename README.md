@@ -82,7 +82,7 @@ body::before {
 <br><br><br><br><br>	
 
 
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年10月12日、國酒の仕業 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年10月12日、國酒の仕業 市川君撮影!!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
@@ -146,8 +146,8 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
-<a href="120921_うずしお_1.JPG" data-lightbox="abc" class="preview"><img src="120921_うずしお_1.JPG" alt="サンプル画像" width="180" /></a>
-<a href="120921_うずしお_2.JPG" data-lightbox="abc" class="preview"><img src="120921_うずしお_2.JPG" alt="サンプル画像" width="180" /></a>
+<a href="120921_うずしお_1.JPG" data-lightbox="abc" class="preview"><img src="120921_うずしお_1.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="120921_うずしお_2.JPG" data-lightbox="abc" class="preview"><img src="120921_うずしお_2.JPG" alt="サンプル画像" width="1800" /></a>
 </div>
 </div>
 <br><br>
