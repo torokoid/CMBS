@@ -238,6 +238,7 @@ Subject: RE: CMBS同窓会のご案内<br><br>
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3></div>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年10月12日、國酒の仕業 集合写真　!!!</marquee></span></h2>
+<p align="right">羽田撮影</p>
 <p><img src="181012_國酒の仕業_22.JPG" alt="サンプル画像" width="1800" /></p>
 
 
