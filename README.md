@@ -65,9 +65,10 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 
+<p>今回唯一の動画！</p>	
 <iframe width="900" height="506" src="https://www.youtube.com/embed/KLjFyxIiPe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
-<p>日本酒第一弾はスペシャル！</p>
+<p>日本酒第一弾はかなりスペシャル！</p>
 <a href="20211126_001.JPG" data-lightbox="abc"><img src="20211126_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211126_002.JPG" data-lightbox="abc"><img src="20211126_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211126_003.JPG" data-lightbox="abc"><img src="20211126_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -79,7 +80,9 @@ body::before {
 <a href="20211126_008.JPG" data-lightbox="abc"><img src="20211126_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211126_009.JPG" data-lightbox="abc"><img src="20211126_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211126_010.JPG" data-lightbox="abc"><img src="20211126_010.JPG" alt="サンプル画像" width="900" /></a>
-
+<p>お会計は食べとくチケットが大活躍、割引効果は6000円通しが5000円通し程度でした。</p>
+<a href="20211126_011.JPG" data-lightbox="abc"><img src="20211126_011.JPG" alt="サンプル画像" width="900" /></a>
+	
 </div>
 
 <br><br>
