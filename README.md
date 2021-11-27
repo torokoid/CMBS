@@ -65,7 +65,7 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KLjFyxIiPe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/KLjFyxIiPe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <p>日本酒第一弾はスペシャル！</p>
 <a href="20211126_001.JPG" data-lightbox="abc"><img src="20211126_001.JPG" alt="サンプル画像" width="900" /></a>
