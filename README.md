@@ -61,6 +61,32 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2021年11月26日、花子 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+
+
+<a href="20211126_001.JPG" data-lightbox="abc"><img src="20211126_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211126_002.JPG" data-lightbox="abc"><img src="20211126_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211126_003.JPG" data-lightbox="abc"><img src="20211126_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211126_004.JPG" data-lightbox="abc"><img src="20211126_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211126_005.JPG" data-lightbox="abc"><img src="20211126_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211126_006.JPG" data-lightbox="abc"><img src="20211126_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211126_007.JPG" data-lightbox="abc"><img src="20211126_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211126_008.JPG" data-lightbox="abc"><img src="20211126_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211126_009.JPG" data-lightbox="abc"><img src="20211126_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211126_010.JPG" data-lightbox="abc"><img src="20211126_010.JPG" alt="サンプル画像" width="900" /></a>
+
+</div>
+
+<br><br>
+
+
+
+<br><br><br><br><br>	
+	
+	
+	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年9月27日、石臼挽き手打ち蕎麦 こまめ !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
