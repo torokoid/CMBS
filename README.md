@@ -83,9 +83,11 @@ body::before {
 <a href="20221028_016.JPG" data-lightbox="abc"><img src="20221028_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221028_017.JPG" data-lightbox="abc"><img src="20221028_017.JPG" alt="サンプル画像" width="900" /></a>
 
+<br>
 <p>そば談義！</p>	
 <iframe width="900" height="506" src="https://www.youtube.com/embed/aIRuPO8nnU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 <p>主人の日本酒講釈！</p>	
 <iframe width="900" height="506" src="https://www.youtube.com/embed/0CisgSb8jkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
