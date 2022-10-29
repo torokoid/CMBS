@@ -65,6 +65,7 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 
+<p>今回も５種類の日本酒を楽しませていただきました。</p>	
 <a href="20221028_001.JPG" data-lightbox="abc"><img src="20221028_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221028_002.JPG" data-lightbox="abc"><img src="20221028_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221028_003.JPG" data-lightbox="abc"><img src="20221028_003.JPG" alt="サンプル画像" width="900" /></a>
