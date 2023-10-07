@@ -70,6 +70,7 @@ body::before {
 <a href="20231006_002.JPG" data-lightbox="abc"><img src="20231006_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_003.JPG" data-lightbox="abc"><img src="20231006_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_004.JPG" data-lightbox="abc"><img src="20231006_004.JPG" alt="サンプル画像" width="900" /></a>
+<p>松田さんは古希祝い！</p>
 <a href="20231006_005.JPG" data-lightbox="abc"><img src="20231006_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_006.JPG" data-lightbox="abc"><img src="20231006_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_007.JPG" data-lightbox="abc"><img src="20231006_007.JPG" alt="サンプル画像" width="900" /></a>
