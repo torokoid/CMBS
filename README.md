@@ -59,6 +59,7 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! CMBS開発者、飲み会の記録 !!!</marquee></span></h1>
 <p align="right">2018/10/12、國酒の仕業 市川君撮影</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p align="left"> <img src="QR_CMBS.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2023年10月6日、花子 !!!</marquee></span></h2>
