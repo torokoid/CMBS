@@ -65,7 +65,7 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 
-<p>今回は８名の参加でした。</p>	
+<p>今回は８名の参加でした。<br>杉本さんはフェローに就任です！</p>	
 <a href="20231006_001.JPG" data-lightbox="abc"><img src="20231006_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_002.JPG" data-lightbox="abc"><img src="20231006_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_003.JPG" data-lightbox="abc"><img src="20231006_003.JPG" alt="サンプル画像" width="900" /></a>
