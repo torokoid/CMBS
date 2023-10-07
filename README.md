@@ -67,12 +67,13 @@ body::before {
 
 <p>今回は８名の参加でした。<br>杉本さんはフェローに就任です！</p>	
 <a href="20231006_001.JPG" data-lightbox="abc"><img src="20231006_001.JPG" alt="サンプル画像" width="900" /></a>
+<p>松田さんの横顔と、幹事の浦井さん！</p>
 <a href="20231006_002.JPG" data-lightbox="abc"><img src="20231006_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_003.JPG" data-lightbox="abc"><img src="20231006_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_004.JPG" data-lightbox="abc"><img src="20231006_004.JPG" alt="サンプル画像" width="900" /></a>
 <p>松田さんは古希祝い！</p>
 <a href="20231006_005.JPG" data-lightbox="abc"><img src="20231006_005.JPG" alt="サンプル画像" width="900" /></a>
-<p>一眼若い、市川くん！</p>
+<p>一番若い、市川くん！</p>
 <a href="20231006_006.JPG" data-lightbox="abc"><img src="20231006_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_007.JPG" data-lightbox="abc"><img src="20231006_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_008.JPG" data-lightbox="abc"><img src="20231006_008.JPG" alt="サンプル画像" width="900" /></a>
