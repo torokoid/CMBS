@@ -61,6 +61,42 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2023年10月6日、花子 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+
+<p>今回は８名の参加でした。</p>	
+<a href="20231006_001.JPG" data-lightbox="abc"><img src="20231006_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_002.JPG" data-lightbox="abc"><img src="20231006_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_003.JPG" data-lightbox="abc"><img src="20231006_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_004.JPG" data-lightbox="abc"><img src="20231006_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_005.JPG" data-lightbox="abc"><img src="20231006_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_006.JPG" data-lightbox="abc"><img src="20231006_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_007.JPG" data-lightbox="abc"><img src="20231006_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_008.JPG" data-lightbox="abc"><img src="20231006_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_009.JPG" data-lightbox="abc"><img src="20231006_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_010.JPG" data-lightbox="abc"><img src="20231006_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_011.JPG" data-lightbox="abc"><img src="20231006_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_012.JPG" data-lightbox="abc"><img src="20231006_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_013.JPG" data-lightbox="abc"><img src="20231006_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_014.JPG" data-lightbox="abc"><img src="20231006_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_015.JPG" data-lightbox="abc"><img src="20231006_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_016.JPG" data-lightbox="abc"><img src="20231006_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_017.JPG" data-lightbox="abc"><img src="20231006_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_018.JPG" data-lightbox="abc"><img src="20231006_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<p>話題の古城さん宅は公園の横、車は出動中でした。</p>
+<a href="20231006_019.JPG" data-lightbox="abc"><img src="20231006_019.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20231006_020.JPG" data-lightbox="abc"><img src="20231006_020.JPG" alt="サンプル画像" width="450" /></a>
+<p>5件となりは、矢ヶ崎宅、こちらも5研メンバーでした。</p>
+<a href="20231006_021.JPG" data-lightbox="abc"><img src="20231006_021.JPG" alt="サンプル画像" width="450" /></a>
+<p>コスモスも綺麗に咲きました。</p>
+<a href="20231006_022.JPG" data-lightbox="abc"><img src="20231006_022.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20231006_023.JPG" data-lightbox="abc"><img src="20231006_023.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20231006_024.JPG" data-lightbox="abc"><img src="20231006_024.JPG" alt="サンプル画像" width="450" /></a>
+<p>モバイルSuicaトラブルで、何年かぶりに切符で電車に乗りました。</p>
+<a href="20231006_000.JPG" data-lightbox="abc"><img src="20231006_000.JPG" alt="サンプル画像" width="900" /></a>
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2022年10月28日、花子 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
