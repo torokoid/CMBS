@@ -90,9 +90,9 @@ body::before {
 <a href="20231006_017.JPG" data-lightbox="abc"><img src="20231006_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_018.JPG" data-lightbox="abc"><img src="20231006_018.JPG" alt="サンプル画像" width="900" /></a>
 
-<p>話題の古城さん宅は公園の横、車は出動中でした。</p>
+<p>話題の古城さん宅は公園の横、車はガレージの中でした。</p>
 <a href="20231006_025.JPG" data-lightbox="abc"><img src="20231006_025.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20231006_026.JPG" data-lightbox="abc"><img src="20231006_026.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20231006_026.JPG" data-lightbox="abc"><img src="20231006_026.JPG" alt="サンプル画像" width="225" /></a>
 <!--
 <p>5件となりは、矢ヶ崎宅、こちらも5研メンバーでした。</p>
 <a href="20231006_021.JPG" data-lightbox="abc"><img src="20231006_021.JPG" alt="サンプル画像" width="450" /></a>
