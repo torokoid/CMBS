@@ -89,12 +89,13 @@ body::before {
 <a href="20231006_016.JPG" data-lightbox="abc"><img src="20231006_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_017.JPG" data-lightbox="abc"><img src="20231006_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_018.JPG" data-lightbox="abc"><img src="20231006_018.JPG" alt="サンプル画像" width="900" /></a>
-
+<!--
 <p>話題の古城さん宅は公園の横、車は出動中でした。</p>
 <a href="20231006_019.JPG" data-lightbox="abc"><img src="20231006_019.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20231006_020.JPG" data-lightbox="abc"><img src="20231006_020.JPG" alt="サンプル画像" width="450" /></a>
 <p>5件となりは、矢ヶ崎宅、こちらも5研メンバーでした。</p>
 <a href="20231006_021.JPG" data-lightbox="abc"><img src="20231006_021.JPG" alt="サンプル画像" width="450" /></a>
+-->
 <p>コスモスも綺麗に咲きました。</p>
 <a href="20231006_022.JPG" data-lightbox="abc"><img src="20231006_022.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20231006_023.JPG" data-lightbox="abc"><img src="20231006_023.JPG" alt="サンプル画像" width="450" /></a>
