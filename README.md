@@ -100,9 +100,9 @@ body::before {
 <a href="20231006_021.JPG" data-lightbox="abc"><img src="20231006_021.JPG" alt="サンプル画像" width="450" /></a>
 -->
 <p>コスモスも綺麗に咲きました。</p>
-<a href="20231006_022.JPG" data-lightbox="abc"><img src="20231006_022.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20231006_023.JPG" data-lightbox="abc"><img src="20231006_023.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20231006_024.JPG" data-lightbox="abc"><img src="20231006_024.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20231006_022.JPG" data-lightbox="abc"><img src="20231006_022.JPG" alt="サンプル画像" width="225" /></a>
+<a href="20231006_023.JPG" data-lightbox="abc"><img src="20231006_023.JPG" alt="サンプル画像" width="225" /></a>
+<a href="20231006_024.JPG" data-lightbox="abc"><img src="20231006_024.JPG" alt="サンプル画像" width="225" /></a>
 <p>モバイルSuicaトラブルで、何年かぶりに切符で電車に乗りました。</p>
 <a href="20231006_000.JPG" data-lightbox="abc"><img src="20231006_000.JPG" alt="サンプル画像" width="900" /></a>
 
