@@ -94,7 +94,7 @@ body::before {
 <a href="20231006_025.JPG" data-lightbox="abc"><img src="20231006_025.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20231006_026.JPG" data-lightbox="abc"><img src="20231006_026.JPG" alt="サンプル画像" width="225" /></a>
 <p>ちなみに公園はこちら。</p>
-<a href="https://www.google.com/maps/@36.6019194,139.941782,15.69z?authuser=0&entry=ttu" data-lightbox="abc"><img src="kouen.png" alt="サンプル画像" width="450" /></a>
+<a href="https://maps.app.goo.gl/ZK4nEhT1ocVhQKsBA" data-lightbox="abc"><img src="kouen.png" alt="サンプル画像" width="450" /></a>
 <!--
 <p>5件となりは、矢ヶ崎宅、こちらも5研メンバーでした。</p>
 <a href="20231006_021.JPG" data-lightbox="abc"><img src="20231006_021.JPG" alt="サンプル画像" width="450" /></a>
