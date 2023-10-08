@@ -94,7 +94,7 @@ body::before {
 <a href="20231006_025.JPG" data-lightbox="abc"><img src="20231006_025.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20231006_026.JPG" data-lightbox="abc"><img src="20231006_026.JPG" alt="サンプル画像" width="225" /></a>
 <p>ちなみに公園はこちら。</p>
-<a href="[kouen.png](https://www.google.com/maps/place/岡本台ハイツ西公園/@36.6043788,139.9419493,15.47z/data=!4m6!3m5!1s0x601f61259bd9b879:0x2493518884a850a!8m2!3d36.606319!4d139.9478658!16s%2Fg%2F11f5hhxjwn?authuser=0&entry=ttu)" data-lightbox="abc"><img src="kouen.png" alt="サンプル画像" width="450" /></a>
+<a href="https://www.google.com/maps/place/岡本台ハイツ西公園/@36.6043788,139.9419493,15.47z/data=!4m6!3m5!1s0x601f61259bd9b879:0x2493518884a850a!8m2!3d36.606319!4d139.9478658!16s%2Fg%2F11f5hhxjwn?authuser=0&entry=ttu" data-lightbox="abc"><img src="kouen.png" alt="サンプル画像" width="450" /></a>
 <!--
 <p>5件となりは、矢ヶ崎宅、こちらも5研メンバーでした。</p>
 <a href="20231006_021.JPG" data-lightbox="abc"><img src="20231006_021.JPG" alt="サンプル画像" width="450" /></a>
