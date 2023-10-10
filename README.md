@@ -90,7 +90,7 @@ body::before {
 <a href="20231006_017.JPG" data-lightbox="abc"><img src="20231006_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_018.JPG" data-lightbox="abc"><img src="20231006_018.JPG" alt="サンプル画像" width="900" /></a>
 
-<p>以下市川くん撮影写真。</p>
+<p>以下、市川くん撮影写真。</p>
 <a href="20231006_027.JPG" data-lightbox="abc"><img src="20231006_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_028.JPG" data-lightbox="abc"><img src="20231006_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_029.JPG" data-lightbox="abc"><img src="20231006_029.JPG" alt="サンプル画像" width="900" /></a>
