@@ -90,6 +90,13 @@ body::before {
 <a href="20231006_017.JPG" data-lightbox="abc"><img src="20231006_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231006_018.JPG" data-lightbox="abc"><img src="20231006_018.JPG" alt="サンプル画像" width="900" /></a>
 
+<p>以下市川くん撮影写真。</p>
+<a href="20231006_027.JPG" data-lightbox="abc"><img src="20231006_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_028.JPG" data-lightbox="abc"><img src="20231006_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_029.JPG" data-lightbox="abc"><img src="20231006_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_030.JPG" data-lightbox="abc"><img src="20231006_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231006_031.JPG" data-lightbox="abc"><img src="20231006_031.JPG" alt="サンプル画像" width="900" /></a>
+
 <p>話題の古城さん宅は公園の横、車はガレージの中でした。</p>
 <a href="20231006_025.JPG" data-lightbox="abc"><img src="20231006_025.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20231006_026.JPG" data-lightbox="abc"><img src="20231006_026.JPG" alt="サンプル画像" width="225" /></a>
