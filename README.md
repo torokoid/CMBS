@@ -76,6 +76,9 @@ body::before {
 <a href="20240823_007.JPG" data-lightbox="abc"><img src="20240823_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240823_008.JPG" data-lightbox="abc"><img src="20240823_008.JPG" alt="サンプル画像" width="900" /></a>
 
+<p>松田さんはトイレに行くのも忘れて語ります。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AK3IfAtwL5o?si=Cc0EZk4oGK0Ak4oe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2023年10月6日、花子 !!!</marquee></span></h2>
 <div id="wrap">
