@@ -384,7 +384,7 @@ Subject: RE: CMBS同窓会のご案内<br><br>
 <p align="right">181012_國酒の仕業、羽田撮影</p>
 <p><img src="181012_國酒の仕業_22.JPG" alt="サンプル画像" width="1800" /></p>
 
-</div></div></div>
+</div></div></div></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 
