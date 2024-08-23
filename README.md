@@ -62,6 +62,21 @@ body::before {
 <p align="left"> <img src="QR_CMBS.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2024年8月23日、うず潮 !!!</marquee></span></h2>
+
+<p>今回は7名の参加でした。写真はちょっと少なめです。</p>
+
+<a href="20240823_001.JPG" data-lightbox="abc"><img src="20240823_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240823_002.JPG" data-lightbox="abc"><img src="20240823_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240823_003.JPG" data-lightbox="abc"><img src="20240823_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240823_004.JPG" data-lightbox="abc"><img src="20240823_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240823_005.JPG" data-lightbox="abc"><img src="20240823_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240823_006.JPG" data-lightbox="abc"><img src="20240823_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240823_007.JPG" data-lightbox="abc"><img src="20240823_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240823_008.JPG" data-lightbox="abc"><img src="20240823_008.JPG" alt="サンプル画像" width="900" /></a>
+
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2023年10月6日、花子 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
