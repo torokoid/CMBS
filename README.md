@@ -49,6 +49,22 @@ body::before {
 <body style="background: url(https://torokoid.github.io/CMBS/181012_國酒の仕業_24.JPG) fixed;">
 -->
 
+/* 余白用のクラス定義 */
+        .space-large {
+            margin-bottom: 60px; /* お好みの広さに調整してください */
+        }
+        
+        .space-extra-large {
+            margin-bottom: 120px;
+        }
+
+        .space-footer {
+            margin-bottom: 400px;
+        }
+
+        .space-extra-footer {
+            margin-bottom: 1000px;
+        }
 
 </style> 
 
@@ -88,8 +104,11 @@ body::before {
 <a href="20261030_00056.jpeg" target="_blank"><img src="20261030_00056.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261030_00057.jpeg" target="_blank"><img src="20261030_00057.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261030_00058.jpeg" target="_blank"><img src="20261030_00058.jpeg" alt="サンプル画像" class="responsive-media"></a>
-
+<p>開催案内のメール</p>
+<a href="20261030_00059.png" target="_blank"><img src="20261030_00059.png" alt="サンプル画像" class="responsive-media"></a>
 </div>
+
+<div class="space-extra-large"></div>
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2024年8月23日、うず潮 !!!</marquee></span></h2>
 
