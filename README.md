@@ -62,6 +62,7 @@ body::before {
 <p align="left"> <img src="QR_CMBS.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+<div class="media-container">
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2026年10月30日、HACHI !!!</marquee></span></h2>
 
 <p>飲み会スタートの19:30まで時間があるのでヨドバシで時間調整</p>
@@ -88,6 +89,7 @@ body::before {
 <a href="20261030_00057.jpeg" target="_blank"><img src="20261030_00057.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261030_00058.jpeg" target="_blank"><img src="20261030_00058.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
+</div>
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2024年8月23日、うず潮 !!!</marquee></span></h2>
 
