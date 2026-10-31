@@ -79,7 +79,7 @@ body::before {
 
 <h2><span class="yellow">全員で乾杯の動画</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yre_8mDhyjM?si=wDVABz-5a1x_vbxa&autoplay=1&mute=1&loop=1&playlist=DvpFP0wNhu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yre_8mDhyjM?si=wDVABz-5a1x_vbxa&autoplay=1&mute=1&loop=1&playlist=yre_8mDhyjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 <p>最初の一皿は鶏肉の唐揚げ</p>
