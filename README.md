@@ -62,6 +62,32 @@ body::before {
 <p align="left"> <img src="QR_CMBS.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2026年10月30日、HACHI !!!</marquee></span></h2>
+
+<p>飲み会スタートの19:30まで時間があるのでヨドバシで時間調整</p>
+<a href="20261030_00050.jpeg" target="_blank"><img src="20261030_00050.jpeg" alt="サンプル画像" class="responsive-media"></a>
+
+<p>田川を渡った先が会場のHACHI</p>
+<a href="20261030_00051.jpeg" target="_blank"><img src="20261030_00051.jpeg" alt="サンプル画像" class="responsive-media"></a>
+
+<p>このお二人の晩酌で会がスタート</p>
+<a href="20261030_00052.jpeg" target="_blank"><img src="20261030_00052.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261030_00053.jpeg" target="_blank"><img src="20261030_00053.jpeg" alt="サンプル画像" class="responsive-media"></a>
+
+<p>松田さんもお元気！</p>
+<a href="20261030_00054.jpeg" target="_blank"><img src="20261030_00054.jpeg" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">全員で乾杯の動画</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yre_8mDhyjM?si=wDVABz-5a1x_vbxa&autoplay=1&mute=1&loop=1&playlist=DvpFP0wNhu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+<p>最初の一皿は鶏肉の唐揚げ</p>
+<a href="20261030_00055.jpeg" target="_blank"><img src="20261030_00055.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261030_00056.jpeg" target="_blank"><img src="20261030_00056.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261030_00057.jpeg" target="_blank"><img src="20261030_00057.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261030_00058.jpeg" target="_blank"><img src="20261030_00058.jpeg" alt="サンプル画像" class="responsive-media"></a>
+
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2024年8月23日、うず潮 !!!</marquee></span></h2>
 
